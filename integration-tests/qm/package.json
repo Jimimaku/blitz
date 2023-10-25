@@ -15,7 +15,7 @@
     "@prisma/client": "4.6.1",
     "@tanstack/react-query": "4.0.10",
     "blitz": "workspace:2.0.0-beta.27",
-    "next": "13.3.0",
+    "next": "13.5.0",
     "prisma": "4.6.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
